@@ -6,9 +6,9 @@ This repository serves as a starting point for the BAIS 3250 final project on da
 
 | Folder      | Description |
 |-------------|-------------|
-| `data/`     | Raw and cleaned CSV datasets |
-| `notebooks/`| Jupyter notebooks for scraping, cleaning, and analysis |
-| `docs/`     | Data dictionary and documentation |
+| `data`     | Raw and cleaned CSV datasets |
+| `docs`     | Data dictionary and documentation |
+| `notebooks`| Jupyter notebooks for scraping, cleaning, and analysis |
 
 ## Files
 
