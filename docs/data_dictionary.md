@@ -1,7 +1,7 @@
 # Data Dictionary
 | Column Name               | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
-| `title`                   | Shared title of the book and its movie adaptation (standardized for merge). |
+| `title`                   | Title of the book and its movie adaptation (standardized for merge). |
 | `imdb_id`                 | Unique IMDb identifier used for scraping movie data.                        |
 | `release_year_movie`      | Year the movie was released.                                                |
 | `movie_rating`            | MPAA movie rating (e.g., PG, PG-13, R).                                     |
