@@ -7,11 +7,12 @@ This repository serves as a starting point for the BAIS 3250 final project on da
 | Folder      | Description |
 |-------------|-------------|
 | `data`     | Raw and cleaned CSV datasets |
-| `docs`     | Data dictionary and documentation |
+| `docs`     | Final project report and data dictionary |
 | `notebooks`| Jupyter notebooks for scraping, cleaning, and analysis |
 
 ## Files
 
+- `esolie_bais3250_project_report.pdf` — Final project report on IMDb movies and books
 - `esolie_bais3250_project_integrated.csv` — Combined dataset integrating movie and book features
 - `esolie_bais3250_project_webscrape_imdb.csv` — Scraped IMDb user reviews
 - `Goodreadsbooks.csv` — Original Goodreads dataset with book metadata
